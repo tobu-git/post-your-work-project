@@ -3,25 +3,21 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+This a a udacity test project for a git course regarding a bikeshare function
 
 ## Information about how to use your project
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Not sure if any code is working here 
+- Do not use it
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+- Do not contribut anything
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I hope I will pass this course
 
 ## Date created
 
-Include the date you created this project and README file.
+Created in March, 2026
