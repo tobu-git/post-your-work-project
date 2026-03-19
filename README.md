@@ -16,7 +16,8 @@ Not sure if any code is working here, so better not use it.
 
 ## Credits
 
-
+This is a udacity test project based on [udacity/post-your-work-project](https://github.com/udacity/post-your-work-project)
 
 ## Date created
 
+Created in March 16th, 2026
