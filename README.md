@@ -1,6 +1,4 @@
 
-
-
 # Project Title
 
 Bikeshare project course "introduction to Version control"
